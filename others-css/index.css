@@ -1,0 +1,18 @@
+body{
+    background-color: green;
+    color: white;
+    width: 85vw;
+    margin: auto;
+}
+
+p{
+    border: 1px solid greenyellow;
+}
+
+button{
+    color: green;
+    background-color: greenyellow;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+}
